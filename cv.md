@@ -15,3 +15,5 @@ English(Intermediate), Russian(Basic), Uzbek(Native)
 
 ## Projects
 [View projects](https://hasanboy.netlify.app/projects.html)
+
+©️ 2022 . Hasanboy Marufjonov
