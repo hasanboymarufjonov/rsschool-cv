@@ -1,5 +1,5 @@
 # Hasanboy Marufjonov
-Frontend developer with primary focus on React
+Frontend developer with primary focus on React JS
 
 ## Professional Skills
 HTML, CSS, JavaScript, React JS
